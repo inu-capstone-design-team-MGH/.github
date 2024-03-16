@@ -6,5 +6,6 @@
 3. 범위: 이 문제의 어떤 부분에 집중할 것인가?
 4. 현실인식: 시간 내에, 우리 능력으로 풀 수 있을까?
 
-주제 신청서: https://github.com/inu-capstone-design-team-MGH/MSG-folder/blob/33aa2f237b98ef5bb57fa1e7a35570a0e9e94373/%5B%EB%AC%B4%EA%B3%84%ED%9A%8D%5D-%EC%A3%BC%EC%A0%9C%20%EC%84%A0%EC%A0%95%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf  
+주제 신청서: https://github.com/inu-capstone-design-team-MGH/MSG-folder/blob/main/%5B%EB%AC%B4%EA%B3%84%ED%9A%8D%5D-%EC%A3%BC%EC%A0%9C%20%EC%84%A0%EC%A0%95%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
+
 github page: https://inu-capstone-design-team-mgh.github.io/
