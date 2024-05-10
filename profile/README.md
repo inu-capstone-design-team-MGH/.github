@@ -10,4 +10,4 @@
 경량화 모델 : YOLOv9, 성능 비교 모델 : YOLOv8  ==> COCO dataset 정확도 & 처리속도 비교
 
 << [주간보고서](https://github.com/inu-capstone-design-team-MGH/MSG-folder/tree/main/%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C) >>  
-<< [중간발표자료](https://docs.google.com/presentation/d/1K-RBIvTFgKdmuJVjn_G88saMipwKls6wH2TUAxtUWDI/edit?usp=sharing) >>
+<< [중간발표자료](https://github.com/inu-capstone-design-team-MGH/MSG-folder/tree/main/%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C) >>
